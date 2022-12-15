@@ -31,7 +31,7 @@ const Index = () => {
 
     const [borderSetting, setBorderSetting] = useState("");
     const [emotion, setEmotion] = useState();
-    const [currEmotion, setCurrEmotion] = useState("");
+    const [currEmotion, setCurrEmotion] = useState("Do the emotion");
     const [selectEmotion, setSelectEmotion] = useState("");
     const [currentView, setCurrentView] = useState(0);
     // const [toggle, setToggle] = useState(false);
