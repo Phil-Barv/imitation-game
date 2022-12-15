@@ -1,4 +1,4 @@
-import * as faceapi from 'face-api.js';
+import * as faceapi from '../face-api.min.js';
 import { useState, useEffect } from 'react';
 import styles from '../styles/Home.module.css'
 
